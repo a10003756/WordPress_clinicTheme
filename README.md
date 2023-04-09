@@ -1,3 +1,8 @@
 # WordPress_clinicTheme
-# WordPress_clinicTheme
-# WordPress_clinicTheme
+
+WordPressのローコードテーマです。
+地方の町病院などに向けて、サイト制作を提案するための
+ローコードテーマになります。
+
+基本的にサイトの構成やレイアウト、カラーなどはなんでもノーコードで作成可能です。
+フォントや細かいCSSの設定などでコーディングスキルが必要になります。
